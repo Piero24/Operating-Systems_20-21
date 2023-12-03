@@ -6,9 +6,6 @@
 > University of Padua
 
 ---
-**Multilanguage**
-
-*Versions in other languages:* [English](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README.md)
 
 ## Concurrent programming exercises for the Operational Systems course
 

@@ -1,56 +1,57 @@
 [![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/F.SW16-17)
 # Operating-Systems_20-21
 
-> anno accademico 2020-2021 (unipd)
-> Università degli studi di Padova
+> academic year 2020-2021 (unipd)
+> 
+> University of Padua
 
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README.md)
+*Versions in other languages:* [English](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Operating-Systems_20-21/blob/main/README.md)
 
-## Esercizi sulla programmazione concorrente per il corso di Sitemi operativi
+## Concurrent programming exercises for the Operational Systems course
 
 
-Questi file sono gli esercizi richiesti nell'anno accademico 2020-2021 per
-il corso di Sistemi operativi.
+These files are the exercises required in the 2020-2021 academic year for
+the Operating Systems course.
 
-Qui è presente una raccolta con le relative soluzioni.
+Here is a collection with related solutions.
 
-Gli homework consistono nella realizzazione di alcuni esercizi per apprendere le basi
-della programmazione concorrente sfruttando il linguaggio GO Lang.
+Homework consists of carrying out some exercises to learn the basics
+of concurrent programming using the GO Lang language.
 
-Sono presenti i testi dei vari esercizi con relativa soluzione.
+There are the texts of the various exercises with relative solution.
 
-**NOTA:** Gli esercizi posso avere molteplici soluzioni e non è detto che quelle presenti
-in questi file siano le migliori.
+**NOTE:** The exercises can have multiple solutions and not necessarily those present
+in these files are the best.
 
 
 ## Disclaimer
 
 
-Questi esercizi devono essere utilizzati ESCLUSIVAMENTE per apprendere le basi della programmazione.
+These exercises should ONLY be used to learn the basics of programming.
 
 
-**NON SONO IN ALCUN MODO RESPONSABILE DELL'UTILIZZO IMPROPRIO DEL PRESENTE MATERIALE.**
+**I AM IN NO WAY RESPONSIBLE FOR IMPROPER USE OF THIS MATERIAL.**
 
 
-**NON** basarsi esclusivamente sui seguenti esercizi per la preparazione.
-In quanto il programma del corso potrebbe variare durante gli anni.
-Usare questo materiale solo ed esclusivamente per esercitarsi.
+**DO NOT** rely solely on the following exercises for preparation.
+As the course program may vary over the years.
+Use this material only and exclusively for practice.
 
 
-## Descrizione
+## Description
 
 
-Sono presenti 4 esercizi di difficoltà crescente.
+There are 4 exercises of increasing difficulty.
 
-- 3 esercizi richiedono la scrittura del codice da zero.
+- 3 exercises require writing the code from scratch.
 
-- Il quarto esercizio richiede di debuggare del codice.
+- The fourth exercise requires you to debug some code.
 
-Il codice di partenza per l'es 4 si trova nel file tunnelbug.go
-Le soluzioni nei file:
+The starting code for ES 4 can be found in the tunnelbug.go file
+The solutions in the files:
 
 1. soluzioniEs1.go
 2. soluzioniEs2.go
@@ -64,4 +65,4 @@ Pietrobon Andrea
 
 ### Note
 
-Questo materiale **NON** verrà più aggiornato in futuro.
+This material will **NOT** be updated in the future.
